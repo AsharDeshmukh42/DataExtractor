@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "Barclays\r\nC:\\Users\\Aslam\\source\\repos\\DataExtractor\\DataExtractor\\DataExtractor_Example_Input.csv"
+    }
+  }
+}
